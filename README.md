@@ -14,58 +14,74 @@ Possui 17 atributos, 2111 registros e 1 classe de variáveis.
 Gênero 
    *	Masculino
    *	Feminino
+
 Idade
+
 Altura (em metros)
+
 Peso (em kg)
+
 Algum membro da família sofre ou já sofreu de sobrepeso?
    *	Sim
    *	Não
+
 Você come comida calórica com frequência?
    *	Sim
    *	Não
+
 Você costuma comer vegetais nas refeições?
   *	Nunca (1)
   *	Às vezes (2)
   *	Sempre (3)
+
 Quantas refeições principais você faz por dia?
   *	Entre 1 ou 2 (1)
   *	3 (2)
   *	Mais que 3 (3)
+
 Você come no intervalo das refeições principais?
   *	Não 
   *	Às vezes
   *	Frequentemente
   *	Sempre
+
 Você fuma?
   *	Sim
   *	Não
+
 Quanto você bebe de água por dia?
   *	Menos de 1 litro (1)
   *	Entre 1 e 2 litros (2)
   *	Mais que 2 litros (3)
+
 Você monitora diariamente as calorias ingeridas?
   *	Sim
   *	Não
+
 Com que frequência por semana você pratica atividades físicas?
    	*Nunca (0)
    	*1 a 2 dias (1)
    	*2 a 4 dias (2)
    	*4 a 5 dias (3)
+
 Quantas horas por dia você utiliza equipamentos eletrônicos (celular, videogame, televisão, computador, entre outros)?
   *	Entre 0 a 2 horas (0)
   *	3 a 5 horas (1)
   *	Mais que 5 horas (2)
+
 Com que frequência você bebe álcool?
   *	Nunca
   *	Às vezes
   *	Frequentemente
   *	Sempre
+
 Qual meio de transporte você mais utiliza?
   *	Carro
   *	Moto
   *	Bicicleta
   *	Transporte público
   *	A pé
+
 Nível de obesidade (classe de variáveis)
   *	Abaixo do peso
   *	Normal 
@@ -84,6 +100,7 @@ Analisando a Matriz de Confusão, podemos observar que, de 633 registros testado
 
 ### PROGRAMA DESENVOLVIDO COM BASE NA BASE DE DADOS
 Criamos um programa em Python utilizando o **framework Streamlit**. O programa roda no navegador através de um servidor local.
+
 O objetivo do programa é determinar o nível de obesidade de uma pessoa com base numa série de perguntas. 
 
 ![image](https://github.com/liviagomes30/SistemaArvoredeDecisao/assets/97247583/b4895d46-c447-42a7-b62f-8128a99fd8a9)
