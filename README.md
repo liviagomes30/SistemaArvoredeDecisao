@@ -12,17 +12,17 @@ Possui 17 atributos, 2111 registros e 1 classe de variáveis.
 #### ATRIBUTOS
 
 1. Gênero 
-  *	Masculino
-  *	Feminino
+   *	Masculino
+   *	Feminino
 2. Idade
 3.	Altura (em metros)
 4.	Peso (em kg)
 5.	Algum membro da família sofre ou já sofreu de sobrepeso?
-  *	Sim
-  *	Não
+   *	Sim
+   *	Não
 6.	Você come comida calórica com frequência?
-  *	Sim
-  *	Não
+   *	Sim
+   *	Não
 7.	Você costuma comer vegetais nas refeições?
   *	Nunca (1)
   *	Às vezes (2)
