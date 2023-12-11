@@ -11,62 +11,62 @@ Possui 17 atributos, 2111 registros e 1 classe de variáveis.
 
 #### ATRIBUTOS
 
-1. Gênero 
+Gênero 
    *	Masculino
    *	Feminino
-2. Idade
-3.	Altura (em metros)
-4.	Peso (em kg)
-5.	Algum membro da família sofre ou já sofreu de sobrepeso?
+Idade
+Altura (em metros)
+Peso (em kg)
+Algum membro da família sofre ou já sofreu de sobrepeso?
    *	Sim
    *	Não
-6.	Você come comida calórica com frequência?
+Você come comida calórica com frequência?
    *	Sim
    *	Não
-7.	Você costuma comer vegetais nas refeições?
+Você costuma comer vegetais nas refeições?
   *	Nunca (1)
   *	Às vezes (2)
   *	Sempre (3)
-8.	Quantas refeições principais você faz por dia?
+Quantas refeições principais você faz por dia?
   *	Entre 1 ou 2 (1)
   *	3 (2)
   *	Mais que 3 (3)
-9.	Você come no intervalo das refeições principais?
+Você come no intervalo das refeições principais?
   *	Não 
   *	Às vezes
   *	Frequentemente
   *	Sempre
-10.	 Você fuma?
+Você fuma?
   *	Sim
   *	Não
-11.	Quanto você bebe de água por dia?
+Quanto você bebe de água por dia?
   *	Menos de 1 litro (1)
   *	Entre 1 e 2 litros (2)
   *	Mais que 2 litros (3)
-12.	Você monitora diariamente as calorias ingeridas?
+Você monitora diariamente as calorias ingeridas?
   *	Sim
   *	Não
-13.	Com que frequência por semana você pratica atividades físicas?
+Com que frequência por semana você pratica atividades físicas?
    	*Nunca (0)
    	*1 a 2 dias (1)
    	*2 a 4 dias (2)
    	*4 a 5 dias (3)
-14.	Quantas horas por dia você utiliza equipamentos eletrônicos (celular, videogame, televisão, computador, entre outros)?
+Quantas horas por dia você utiliza equipamentos eletrônicos (celular, videogame, televisão, computador, entre outros)?
   *	Entre 0 a 2 horas (0)
   *	3 a 5 horas (1)
   *	Mais que 5 horas (2)
-15.	Com que frequência você bebe álcool?
+Com que frequência você bebe álcool?
   *	Nunca
   *	Às vezes
   *	Frequentemente
   *	Sempre
-16.	Qual meio de transporte você mais utiliza?
+Qual meio de transporte você mais utiliza?
   *	Carro
   *	Moto
   *	Bicicleta
   *	Transporte público
   *	A pé
-17.	Nível de obesidade (classe de variáveis)
+Nível de obesidade (classe de variáveis)
   *	Abaixo do peso
   *	Normal 
   *	Sobrepeso Nível I
